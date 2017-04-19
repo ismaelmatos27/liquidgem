@@ -1,0 +1,200 @@
+body{
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+    background-color: #ECECEC;
+}
+nav{
+
+
+}
+
+nav i{
+  color: #D47584;
+}
+nav>div>a{
+  display: inline-block;
+  font-size: 40px;
+  font-family: 'Cookie', cursive;
+  text-decoration: none;
+  color:#2D2D2D;
+}
+nav div{
+
+  padding-left: 15px;
+  padding-top: 35px;
+  display: inline-block;
+}
+nav ul{
+  float: right;
+
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 35px;
+}
+nav ul li a {
+  text-decoration: none;
+  color:#2D2D2D;
+}
+hr{
+  width: 97%;
+  color: #2D2D2D;
+  border: solid 1px;
+}
+header{
+  color:  #2D2D2D;
+  text-align: center;
+}
+header h1{
+  font-size: 25px;
+
+}
+header h2{
+  font-size: 15px;
+}
+header span{
+  color: #D47584;
+  font-family: 'Cookie', cursive;
+  font-size: 35px;
+}
+header img{
+  height: 280px;
+  width: 97%;
+  border-radius: 10px;
+}
+/*Information*/
+section div{
+  display: inline-block;
+  padding-top: 60px;
+}
+section div span{
+  color: #D47584;
+  font-family: 'Cookie', cursive;
+  font-size: 30px;
+  padding-right: 100px;
+}
+.aboutme{
+  width: 49%;
+  text-align: center;
+}
+.mywork{
+  width:50%;
+  text-align: center;
+}
+p{
+  margin-left: 40px;
+}
+section div p{
+    color: #2D2D2D;
+    text-align: left;
+    padding-left: 20px;
+}
+/*Pictures*/
+section div ul{
+  margin-left:25px;
+  padding: 0px;
+}
+section  div ul li span{
+  font-size: 18px;
+  display: block;
+  background-color: white;
+  border-radius: 0 0 15px 15px;
+  padding: 0px;
+  padding-left: 5px;
+}
+
+section div ul li a{
+  background-color: white;
+  display: block;
+  text-decoration: none;
+  color: #2D2D2D;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 0 0 15px 15px;
+}
+section div li{
+  display: inline-block;
+  height: 260px;
+  width: 220px;
+  margin:10px;
+  padding: 0px;
+  background-color: white;
+  border-radius: 15px 15px 15px 15px;
+}
+
+section div ul li img{
+  height: 190px;
+  width:220px;
+  border-radius: 15px 15px 0 0;
+}
+h3 {
+  color: #D47584;
+  font-family: 'Cookie', cursive;
+  font-size: 26px;
+  text-align: center;
+}
+
+/*Footer - Contact info*/
+footer{
+  background-color:#2D2D2D  ;
+  margin: 0;
+  height: 330px
+}
+form{
+  width: 50%
+}
+footer h3{
+  text-align: left;
+  margin: 0;
+  padding: 15px;
+  padding-top: 45px;
+}
+input{
+  background-color: #ECECEC;
+  display: block;
+  border: none;
+  width: 350px;
+  padding: 5px;
+  margin-left: 15px;
+  font-family: 'Lato',sans-serif;
+}
+textarea{
+  background-color: #ECECEC;
+  display: block;
+  border: none;
+  width: 350px;
+  padding: 5px;
+  margin-left: 15px;
+  font-family: 'Lato',sans-serif;
+}
+button{
+  border: none;
+  background-color: #2D2D2D;
+  color: #ECECEC;
+  margin-left: 15px;
+}
+
+/*Footer Icon List*/
+footer ul{
+  margin: 0;
+  padding: 0;
+  float: right;
+  padding: 60px;
+  display: inline;
+}
+footer ul li{
+  display: inline-block;
+text-align: center;
+  width: 25px;
+  height: 25px;
+
+  background-color:#D47584;
+  border-radius: 20px;
+  margin: 10px;
+
+}
+footer ul li a i{
+  color: #2D2D2D;
+  padding-top: 5px;
+}
